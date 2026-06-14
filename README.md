@@ -68,7 +68,7 @@ npm run dev
 
 ---
 
-## 🔑 Variáveis de Ambiente (`.env.example`)
+## Variáveis de Ambiente (`.env.example`)
 
 Certifique-se de preencher e ajustar os ficheiros de configuração locais de acordo com os seguintes parâmetros:
 
