@@ -1,6 +1,6 @@
 # Projeto 02 — Catálogo de Filmes com Avaliações Pessoais
 
-Aplicação web desenvolvida no âmbito do CTeSP de TPSI, na unidade curricular de Programação Web do IPVC. A aplicação permite ao utilizador registar filmes que viu ou quer ver, adicionar avaliações, comentários e consultar o seu histórico com filtros personalizados.
+Aplicação web desenvolvida no âmbito do CTeSP de TPSI, na unidade curricular de Programação Web. A aplicação permite ao utilizador registar filmes que viu ou quer ver, adicionar avaliações, comentários e consultar o seu histórico com filtros personalizados.
 
 ## Stack
 
