@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://pw-trabalho-pratico.vercel.app/',
+  baseURL: 'https://pw-api-nova.vercel.app',
 });
 
 api.interceptors.request.use((config) => {
